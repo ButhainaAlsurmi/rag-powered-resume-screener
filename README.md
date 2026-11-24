@@ -17,6 +17,14 @@ The system retrieves relevant information from PDF resumes and uses the Llama 3.
 - Generate answers using Llama 3.2 through Ollama.
 - Provide an interactive interface using Gradio.
 
+## Screenshots
+
+### RAG Output - Example 1
+![RAG Output 1](images/rag-output1.jpeg)
+
+### RAG Output - Example 2
+![RAG Output 2](images/rag-output2.jpeg)
+
 ## Dataset
 
 This project uses the Resume Dataset from Kaggle:
